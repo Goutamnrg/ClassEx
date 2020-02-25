@@ -1,0 +1,7 @@
+C:\GoutamDasC#\Ch05Ex01\Ch05Ex01\Ch05Ex01\bin\Debug\Ch05Ex01.exe.config
+C:\GoutamDasC#\Ch05Ex01\Ch05Ex01\Ch05Ex01\bin\Debug\Ch05Ex01.exe
+C:\GoutamDasC#\Ch05Ex01\Ch05Ex01\Ch05Ex01\bin\Debug\Ch05Ex01.pdb
+C:\GoutamDasC#\Ch05Ex01\Ch05Ex01\Ch05Ex01\obj\Debug\Ch05Ex01.csprojAssemblyReference.cache
+C:\GoutamDasC#\Ch05Ex01\Ch05Ex01\Ch05Ex01\obj\Debug\Ch05Ex01.csproj.CoreCompileInputs.cache
+C:\GoutamDasC#\Ch05Ex01\Ch05Ex01\Ch05Ex01\obj\Debug\Ch05Ex01.exe
+C:\GoutamDasC#\Ch05Ex01\Ch05Ex01\Ch05Ex01\obj\Debug\Ch05Ex01.pdb
